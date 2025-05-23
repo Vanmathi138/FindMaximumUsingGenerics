@@ -11,7 +11,6 @@ public class FindMax<T extends Comparable<T>> {
     public T findMax(){
         return findMaximum(x,y,z);
     }
-
     public static  <T extends Comparable<T>> T findMaximum(T a, T b, T c){
         T max = a;
 
