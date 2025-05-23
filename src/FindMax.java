@@ -8,18 +8,14 @@ public class FindMax<T extends Comparable<T>> {
         this.z = z;
     }
 
-    public T findMax(){
-        return findMaximum(x,y,z);
-    }
+    public T findMaximum(){
+        T max = x;
 
-    public static  <T extends Comparable<T>> T findMaximum(T a, T b, T c){
-        T max = a;
-
-        if(b.compareTo(max)>0){
-            max = b;
+        if(y.compareTo(max)>0){
+            max = y;
         }
-        if(c.compareTo(max)>0){
-            max = c;
+        if(z.compareTo(max)>0){
+            max = z;
         }
         return max;
     }

@@ -1,63 +1,19 @@
 
-
-java:S1192"LDefine a constant instead of duplicating this literal "Test failed" 3 times.(΄•Ί8ϋγβο2J$3b1ea6ac-5667-4973-a111-361da8c71ced
-
-java:S1192"LDefine a constant instead of duplicating this literal "Test passed" 6 times.(Δκί®8ϋγβο2J$a0633bd2-54e2-46fb-9ea9-f9845c8b4021
-“
-java:S1192"KDefine a constant instead of duplicating this literal "Expected: " 6 times.(‘½βδώÿÿÿÿ8ϋγβο2J$7d3a1495-3c99-40fb-9b17-0dcda0e9d8f1
-”
-java:S11929"LDefine a constant instead of duplicating this literal "Test Failed" 3 times.(ή€‹ÿÿÿÿÿ8ϋγβο2J$fc64449c-4f45-4b44-9263-853e7c9e8e0e
-’
-java:S1192	"PDefine a constant instead of duplicating this literal "Actual result: " 6 times.(•–΄?8ϋγβο2J$146c55d3-ab4d-4bda-aafb-62be677e3be1
-¦
-java:S1192"^Define a constant instead of duplicating this literal "=============================" 5 times.(ύΨ±όÿÿÿÿ8ϋγβο2J$648797a8-68d6-431a-a356-cb57abecbee1
-
-java:S1659">Declare "b" and all following declarations on a separate line.(Τ»¨Γ8‘εβο2J$5ea1f2de-e133-427e-8346-f575002ed4c8
-
-java:S1659">Declare "e" and all following declarations on a separate line.(––“Η8‘εβο2J$e23d0c82-0aa8-4490-90cd-468dda7dbfd2
-†
-java:S1659!">Declare "h" and all following declarations on a separate line.(”ρπÒÿÿÿÿÿ8‘εβο2J$dcabe45d-303b-4a48-a0f5-1427d7cc9d7a
-‚
-java:S16590"?Declare "a2" and all following declarations on a separate line.(ΝΧΨΧ8‘εβο2J$fbc0ee84-56ce-4da3-bc9a-9613b703be81
-‚
-java:S1659="?Declare "b2" and all following declarations on a separate line.(λ‡ϋ8‘εβο2J$380274f5-04d5-42bf-a1ce-aba80242710e
-‡
-java:S1659J"?Declare "c2" and all following declarations on a separate line.(άβΉθψÿÿÿÿ8‘εβο2J$fc90c495-5fc2-4450-bfee-9ef3588bddee
-m	java:S106"+Replace this use of System.out by a logger.(εΐπ8™εβο2J$523f72a2-2f8d-4355-ac7f-455246c30618
-m	java:S106"+Replace this use of System.out by a logger.(ΒΡπΡ8™εβο2J$e8c7902c-4ec7-40ce-b6b7-09b7612df375
-r	java:S106"+Replace this use of System.out by a logger.(‘½βδώÿÿÿÿ8™εβο2J$7268f95d-29b7-40c2-b2b2-06c4e6062083
-l	java:S106	"+Replace this use of System.out by a logger.(•–΄?8™εβο2J$374e5698-9e5a-42d7-84e2-17e6315f4763
-m	java:S106"+Replace this use of System.out by a logger.(Δκί®8΅εβο2J$dacb3ec8-1357-48be-a7a8-bbbba39bae67
-m	java:S106"+Replace this use of System.out by a logger.(΄•Ί8£εβο2J$62e752ed-d28b-49b2-bae2-1d1cf2306bf1
-r	java:S106"+Replace this use of System.out by a logger.(ύΨ±όÿÿÿÿ8£εβο2J$9efe6cfd-74cf-4f81-a6e9-832eeac6a092
-m	java:S106"+Replace this use of System.out by a logger.(Σέτδ8¥εβο2J$3946a21b-a13a-4ead-814b-bc6be0df7573
-m	java:S106"+Replace this use of System.out by a logger.(ªδιή8¥εβο2J$7b9c4bdd-0057-4fe2-b8c7-95a29833b2fe
-r	java:S106"+Replace this use of System.out by a logger.(…ω¦Θύÿÿÿÿ8¥εβο2J$b540393c-2b53-4081-b83b-f64978f5cf74
-m	java:S106"+Replace this use of System.out by a logger.(Δκί®8¥εβο2J$d1956bbc-3de3-433f-abf0-6191befc0d06
-m	java:S106"+Replace this use of System.out by a logger.(΄•Ί8¥εβο2J$dd8b32cf-e36f-42bf-aed6-6638a01cd690
-r	java:S106"+Replace this use of System.out by a logger.(ύΨ±όÿÿÿÿ8¥εβο2J$b642c804-6082-4332-9764-ad5a999a702d
-r	java:S106#"+Replace this use of System.out by a logger.(°γπΤωÿÿÿÿ8¥εβο2J$92a6468a-f373-45a2-ae5e-9cda366c9ff4
-r	java:S106$"+Replace this use of System.out by a logger.(οÒ€ωÿÿÿÿ8¥εβο2J$f5b38d5a-7e8c-40ea-8efc-3bac817243d2
-m	java:S106%"+Replace this use of System.out by a logger.(Ύ»ϋ8¥εβο2J$4fc4843b-1ea0-46e0-a9ae-83bddd71f639
-m	java:S106("+Replace this use of System.out by a logger.(Δκί®8®εβο2J$48586ce5-e5ad-46e9-b81b-39e3a3fa1b19
-m	java:S106*"+Replace this use of System.out by a logger.(΄•Ί8®εβο2J$07de4122-5cdb-4077-b5ae-96310dca8b86
-r	java:S106,"+Replace this use of System.out by a logger.(ύΨ±όÿÿÿÿ8®εβο2J$4421677d-9f01-4e23-8f65-4fd2aac74027
-r	java:S106."+Replace this use of System.out by a logger.(ªΣΌαώÿÿÿÿ8®εβο2J$f53263ea-de4e-4552-8729-a740a2e221a5
-r	java:S106/"+Replace this use of System.out by a logger.(α³ϊÿÿÿÿ8®εβο2J$9d40b1bb-5119-4279-b502-9fc5259debdc
-r	java:S1062"+Replace this use of System.out by a logger.(΄‹®ϋÿÿÿÿ8΄εβο2J$a26122e5-d159-4168-8a2d-72b823329a6e
-m	java:S1063"+Replace this use of System.out by a logger.(‡γσΫ8΄εβο2J$684ed4e2-4c8c-47c4-b552-97de4f721492
-r	java:S1064"+Replace this use of System.out by a logger.(δφΎ‚ÿÿÿÿÿ8΄εβο2J$beca6d0b-5c18-4d0d-95cd-8bc8c538086e
-m	java:S1067"+Replace this use of System.out by a logger.(Δκί®8΄εβο2J$b9695879-2e0e-43fa-a697-9346eaeb1096
-r	java:S1069"+Replace this use of System.out by a logger.(ή€‹ÿÿÿÿÿ8΄εβο2J$269e5605-b618-4e42-af80-2c4ef28247ec
-r	java:S106;"+Replace this use of System.out by a logger.(ύΨ±όÿÿÿÿ8΄εβο2J$8ab513d2-2d93-4ec8-8a9d-0ffa4f26ffb8
-l	java:S106?"+Replace this use of System.out by a logger.(ΆοΎ8΄εβο2J$7c93ec07-aa96-4c5c-b277-4f0bd62edf74
-r	java:S106@"+Replace this use of System.out by a logger.(΄―…Πϊÿÿÿÿ8΄εβο2J$0570febd-9e8d-4729-b1ab-16b6fae0dbc6
-r	java:S106A"+Replace this use of System.out by a logger.(»Χΰ®ϋÿÿÿÿ8΄εβο2J$fdad2747-c961-49e8-bf41-ebfd4e8c805e
-m	java:S106D"+Replace this use of System.out by a logger.(Δκί®8½εβο2J$dc78f16a-07ee-4349-9912-db80df9586ee
-r	java:S106F"+Replace this use of System.out by a logger.(ή€‹ÿÿÿÿÿ8½εβο2J$84384f31-a01f-4983-af96-5a819ab8b499
-r	java:S106H"+Replace this use of System.out by a logger.(ύΨ±όÿÿÿÿ8½εβο2J$7683678d-b9cf-4b3a-a500-c8fcdd0d2b4f
-r	java:S106L"+Replace this use of System.out by a logger.(Ψ³ϋÿÿÿÿ8½εβο2J$cb975c30-c413-42ac-b782-b559d913159b
-l	java:S106M"+Replace this use of System.out by a logger.(Α‚„v8½εβο2J$645f8496-0154-40fd-941c-71891500833b
-m	java:S106N"+Replace this use of System.out by a logger.(έσΖµ8½εβο2J$23f4ee48-0c5d-4c01-9215-1962662bf7ad
-m	java:S106Q"+Replace this use of System.out by a logger.(Δκί®8½εβο2J$6efeea94-e41e-4421-a887-c97a741f6ba2
-r	java:S106S"+Replace this use of System.out by a logger.(ή€‹ÿÿÿÿÿ8½εβο2J$1e294418-89ee-4a6a-b27f-96d434f5d668
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Peach" 3 times.(ι¦„ςωÿÿÿÿ8‹όζο2
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Banana" 3 times.(ι¦„ςωÿÿÿÿ8όζο2
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Apple" 3 times.(ι¦„ςωÿÿÿÿ8όζο2
+G	java:S106"+Replace this use of System.out by a logger.(Χ€ΚΫ8ΐόζο2
+L	java:S106"+Replace this use of System.out by a logger.(—―ώÿÿÿÿ8Ζόζο2
+G	java:S106	"+Replace this use of System.out by a logger.(ΔΛΝΣ8Ηόζο2
+L	java:S106"+Replace this use of System.out by a logger.(–α—ψÿÿÿÿ8Θόζο2
+G	java:S106"+Replace this use of System.out by a logger.(ΔΛΪΩ8Ιόζο2
+G	java:S106"+Replace this use of System.out by a logger.(‚ρ¥8Λόζο2
+G	java:S106"+Replace this use of System.out by a logger.(ψΥÿ²8Μόζο2
+G	java:S106"+Replace this use of System.out by a logger.(”¬—«8Ξόζο2
+G	java:S106"+Replace this use of System.out by a logger.(Φ¥θ8Ρόζο2
+L	java:S106"+Replace this use of System.out by a logger.(α΅Οωÿÿÿÿ8Òόζο2
+G	java:S106"+Replace this use of System.out by a logger.(ΥΙΌΎ8Σόζο2
+F	java:S106""+Replace this use of System.out by a logger.(µ V8Υόζο2

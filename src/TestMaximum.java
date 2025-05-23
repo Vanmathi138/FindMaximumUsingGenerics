@@ -1,87 +1,37 @@
 public class TestMaximum {
     public static void main(String[] args) {
-        System.out.println("*************Test cases for INTEGER************");
-        //Text case 1
-        Integer a = 100, b = 20, c = 30;
-        Integer result1 = FindMax.findMaximum(a, b, c);
-        System.out.println("Max number at 1st position");
-        System.out.println("Expected: " + a);
-        System.out.println("Actual result: " + result1);
+        System.out.println("********** INTEGER TEST CASES **********");
 
-        if (a.equals(result1)) {
-            System.out.println("Test passed");
-        } else {
-            System.out.println("Test failed");
-        }
-        System.out.println("=============================");
+        FindMax<Integer> intTest1 = new FindMax<>(100, 20, 30);
+        System.out.println("Max Integer at 1st position: Expected: 100 | Actual: " + intTest1.findMaximum());
 
-        //Test case 2
-        Integer d = 20, e = 228, f = 1;
-        Integer result2 = FindMax.findMaximum(d, e, f);
-        System.out.println("Max number at 2nd position");
-        System.out.println("Expected: " + e);
-        System.out.println("Actual result: " + result2);
+        FindMax<Integer> intTest2 = new FindMax<>(20, 228, 1);
+        System.out.println("Max Integer at 2nd position: Expected: 228 | Actual: " + intTest2.findMaximum());
 
-        if (e.equals(result2)) {
-            System.out.println("Test passed");
-        } else {
-            System.out.println("Test failed");
-        }
-        System.out.println("=============================");
+        FindMax<Integer> intTest3 = new FindMax<>(122, 8, 989);
+        System.out.println("Max Integer at 3rd position: Expected: 989 | Actual: " + intTest3.findMaximum());
 
-        //Test case 3
-        Integer g = 122, h = 8, i = 989;
-        Integer result3 = FindMax.findMaximum(g, h, i);
-        System.out.println("Max number at 3rd position");
-        System.out.println("Expected: " + i);
-        System.out.println("Actual result: " + result3);
+        System.out.println("\n********** DOUBLE TEST CASES **********");
 
-        if (i.equals(result3)) {
-            System.out.println("Test passed");
-        } else {
-            System.out.println("Test failed");
-        }
-        System.out.println("=============================");
+        FindMax<Double> doubleTest1 = new FindMax<>(43.5, 4.33, 2.34);
+        System.out.println("Max Double at 1st position: Expected: 43.5 | Actual: " + doubleTest1.findMaximum());
 
-        System.out.println();
-        System.out.println("*************Test cases for DOUBLE************");
-        Double a1 = 43.5, a2 = 4.33, a3 = 2.34;
-        Double r1 = FindMax.findMaximum(a1, a2, a3);
-        System.out.println("Max double at 1st position");
-        System.out.println("Expected: "+a1);
-        System.out.println("Actual result: "+r1);
+        FindMax<Double> doubleTest2 = new FindMax<>(43.5, 894.33, 2.34);
+        System.out.println("Max Double at 2nd position: Expected: 894.33 | Actual: " + doubleTest2.findMaximum());
 
-        if(a1.equals(r1)){
-            System.out.println("Test passed");
-        }else {
-            System.out.println("Test Failed");
-        }
-        System.out.println("=============================");
+        FindMax<Double> doubleTest3 = new FindMax<>(43.5, 4.33, 200.34);
+        System.out.println("Max Double at 3rd position: Expected: 200.34 | Actual: " + doubleTest3.findMaximum());
 
-        Double b1 = 43.5, b2 = 894.33, b3 = 2.34;
-        Double r2 = FindMax.findMaximum(b1,b2, b3);
-        System.out.println("Max double at 2nd position");
-        System.out.println("Expected: "+b2);
-        System.out.println("Actual result: "+r2);
+        System.out.println("\n********** STRING TEST CASES **********");
 
-        if(b2.equals(r2)){
-            System.out.println("Test passed");
-        }else {
-            System.out.println("Test Failed");
-        }
-        System.out.println("=============================");
+        FindMax<String> stringTest1 = new FindMax<>("Peach", "Apple", "Banana");
+        System.out.println("Max String at 1st position: Expected: Peach | Actual: " + stringTest1.findMaximum());
 
-        Double c1 = 43.5, c2 = 4.33, c3 = 200.34;
-        Double r3 = FindMax.findMaximum(c1,c2, c3);
-        System.out.println("Max double at 3rd position");
-        System.out.println("Expected: "+c3);
-        System.out.println("Actual result: "+r3);
+        FindMax<String> stringTest2 = new FindMax<>("Apple", "Peach", "Banana");
+        System.out.println("Max String at 2nd position: Expected: Peach | Actual: " + stringTest2.findMaximum());
 
-        if(c3.equals(r3)){
-            System.out.println("Test passed");
-        }else {
-            System.out.println("Test Failed");
-        }
+        FindMax<String> stringTest3 = new FindMax<>("Apple", "Banana", "Peach");
+        System.out.println("Max String at 3rd position: Expected: Peach | Actual: " + stringTest3.findMaximum());
 
     }
 }
