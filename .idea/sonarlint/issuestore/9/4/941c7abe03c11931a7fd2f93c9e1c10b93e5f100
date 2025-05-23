@@ -1,19 +1,7 @@
 
-h
-java:S1192"FDefine a constant instead of duplicating this literal "Peach" 3 times.(é¦„òùÿÿÿÿ8‹üœæï2
-i
-java:S1192"GDefine a constant instead of duplicating this literal "Banana" 3 times.(é¦„òùÿÿÿÿ8üœæï2
-h
-java:S1192"FDefine a constant instead of duplicating this literal "Apple" 3 times.(é¦„òùÿÿÿÿ8üœæï2
-G	java:S106"+Replace this use of System.out by a logger.(×€ÊÛ8Àüœæï2
-L	java:S106"+Replace this use of System.out by a logger.(—Œ¯şÿÿÿÿ8Æüœæï2
-G	java:S106	"+Replace this use of System.out by a logger.(ÄËÍÓ8Çüœæï2
-L	java:S106"+Replace this use of System.out by a logger.(–œá—øÿÿÿÿ8Èüœæï2
-G	java:S106"+Replace this use of System.out by a logger.(ÄËÚÙ8Éüœæï2
-G	java:S106"+Replace this use of System.out by a logger.(‚ñŠ¥8Ëüœæï2
-G	java:S106"+Replace this use of System.out by a logger.(øÕÿ²8Ìüœæï2
-G	java:S106"+Replace this use of System.out by a logger.(”¬—«8Îüœæï2
-G	java:S106"+Replace this use of System.out by a logger.(Öš¥è8Ñüœæï2
-L	java:S106"+Replace this use of System.out by a logger.(á¡Ïùÿÿÿÿ8Òüœæï2
-G	java:S106"+Replace this use of System.out by a logger.(ÕÉ¼¾8Óüœæï2
-F	java:S106""+Replace this use of System.out by a logger.(µ V8Õüœæï2
+m	java:S106"+Replace this use of System.out by a logger.(ÙéØ÷8Àüœæï2J$1a25de73-0967-44fe-938e-b7da6120f8d7
+L	java:S106"+Replace this use of System.out by a logger.(óÕ¢úÿÿÿÿ8ºé¾æï2
+G	java:S106"+Replace this use of System.out by a logger.(İªÄĞ8Âé¾æï2
+G	java:S106	"+Replace this use of System.out by a logger.(¥€Çª8Âé¾æï2
+G	java:S106"+Replace this use of System.out by a logger.(§«ß¸8Âé¾æï2
+G	java:S106"+Replace this use of System.out by a logger.(À¤È‘8Âé¾æï2
